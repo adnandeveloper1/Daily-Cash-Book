@@ -39,4 +39,35 @@
     <string name="content_desc_calendar">Calendar</string>
     <string name="content_desc_time">Time</string>
     <string name="menu_options">Options</string>
+    <string name="content_desc_menu">Menu</string>
+    <string name="content_desc_title_dropdown">Select Account</string>
+    <string name="content_desc_report">Report</string>
+    <string name="content_desc_search">Search</string>
+    <string name="content_desc_more_options">More Options</string>
+    <string name="drawer_remove_ads">Remove Ads</string>
+    <string name="drawer_summary">Summary</string>
+    <string name="drawer_account_summary">Account Summary</string>
+    <string name="drawer_transaction_all_accounts">Transaction-All Accounts</string>
+    <string name="drawer_accounts">Accounts</string>
+    <string name="drawer_transfer">Transfer</string>
+    <string name="drawer_report_all_accounts">Report-All Accounts</string>
+    <string name="drawer_switch_income_expense">Switch to Income Expense</string>
+    <string name="drawer_notebook">Notebook</string>
+    <string name="drawer_calendar">Calendar</string>
+    <string name="drawer_cash_calculator">Cash Calculator</string>
+    <string name="drawer_backup_restore">Backup and Restore</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_deleted_transactions">Deleted Transactions</string>
+
+    <!-- Backup Banner -->
+    <string name="backup_prompt_title">Enable Google Drive Backup and Restore</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_enable">Enable</string>
+
+    <!-- Top AppBar Descriptions -->
+    <string name="desc_menu">Open menu</string>
+    <string name="desc_title_dropdown">Switch account</string>
+    <string name="desc_pdf_report">Export as PDF</string>
+    <string name="desc_search">Search transactions</string>
+    <string name="desc_more_options">More options</string>
 </resources>
