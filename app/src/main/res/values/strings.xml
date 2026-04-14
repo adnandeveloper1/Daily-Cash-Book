@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Daily Cash Book</string>
+    <string name="title_cash_book">Cash Book</string>
+    <string name="filter_all">All</string>
+    <string name="filter_daily">Daily</string>
+    <string name="filter_weekly">Weekly</string>
+    <string name="filter_monthly">Monthly</string>
+    <string name="filter_yearly">Yearly</string>
+    
+    <string name="main_balance_card_title">Main Balance Card</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="view_details">View Details</string>
+    
+    <string name="label_date">Date</string>
+    <string name="label_cash_in">Cash In</string>
+    <string name="label_cash_out">Cash Out</string>
+    
+    <string name="total_cash_in">Total Cash In</string>
+    <string name="total_cash_out">Total Cash Out</string>
+    <string name="main_balance">Main Balance</string>
+    
+    <string name="btn_cash_in">+ Cash In</string>
+    <string name="btn_cash_out">- Cash Out</string>
+    <string name="balance">Balance %1$s</string>
+    <string name="title_add_cash_in">Cash In</string>
+    <string name="title_add_cash_out">Cash Out</string>
+    <string name="hint_amount_cash_in">Cash In</string>
+    <string name="hint_amount_cash_out">Cash Out</string>
+    <string name="hint_notes">Notes</string>
+    <string name="btn_add_bills">Add Bills</string>
+    <string name="btn_add_items">Add Items</string>
+    <string name="btn_save_and_exit">Save and exit</string>
+    <string name="btn_save_and_continue">Save and continue</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_calculator">Calculator</string>
+    <string name="content_desc_mic">Microphone</string>
+    <string name="content_desc_camera">Camera</string>
+    <string name="content_desc_list">List</string>
+    <string name="content_desc_calendar">Calendar</string>
+    <string name="content_desc_time">Time</string>
+    <string name="menu_options">Options</string>
+</resources>
